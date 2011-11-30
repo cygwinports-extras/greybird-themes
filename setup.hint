@@ -1,0 +1,7 @@
+category: Gnome Xfce
+requires: gtk2.0-engines-pixmap gtk2.0-engines-murrine gtk3-engines-unico
+sdesc: "Default Xubuntu GTK+ theme"
+ldesc: "This theme for GTK2/3 and xfwm4/emerald/metacity started out on 
+the basis of Bluebird, but aims at reworking the intense blue tone to a 
+more neutral grey-ish look that will be more pleasant to look at in 
+everyday use."
